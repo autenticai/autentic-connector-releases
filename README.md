@@ -2,7 +2,9 @@
 
 Connect your Claude or Codex subscription to [Autentic](https://app.autentic.ai) from your Mac.
 
-[Download for Apple Silicon](https://github.com/autenticai/autentic-connector-releases/releases/download/connector-v0.0.1/Autentic-Connector-arm64.dmg)
+[Download for production (Apple Silicon)](https://github.com/autenticai/autentic-connector-releases/releases/download/connector-v0.0.1/Autentic-Connector-arm64.dmg)
+
+[Download for staging (Apple Silicon)](https://github.com/autenticai/autentic-connector-releases/releases/download/connector-v0.0.1-staging.1/Autentic-Connector-arm64.dmg) connects to staging.autentic.ai.
 
 Requires an Apple Silicon Mac running macOS 14 or later and an Autentic account with connector access.
 
